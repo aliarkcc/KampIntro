@@ -14,7 +14,7 @@ namespace Dictionary
 
 
             Console.WriteLine(dictionary.Lenght);
-
+             
         }
     }
 }

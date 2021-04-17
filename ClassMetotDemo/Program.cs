@@ -5,7 +5,7 @@ namespace ClassMetotDemo
     class Program
     {
         static void Main(string[] args)
-        {
+        { 
             Musteri musteri = new Musteri()
             {
                 MusteriID = 1,

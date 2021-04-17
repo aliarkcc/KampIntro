@@ -32,8 +32,11 @@ namespace Dictionary
                 _value[i] = _tempValue[i];
             }
             _key[_key.Length - 1] = key;
-            _value[_value.Length - 1] = value;
-
+            _value[_value.Length - 1] = value; 
+        }
+        public int Lenght
+        {
+            get { return _key.Length; }
         }
     }
 }

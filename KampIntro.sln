@@ -17,13 +17,15 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DegerveReferansTipler", "De
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ClassMetotDemo", "ClassMetotDemo\ClassMetotDemo.csproj", "{C8DE7D3F-3852-438E-AA80-C905C9DAD01F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DnemeProje", "DnemeProje\DnemeProje.csproj", "{4A4F787B-CD8D-4B2A-99A9-A36FFC3AB271}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DnemeProje", "DnemeProje\DnemeProje.csproj", "{4A4F787B-CD8D-4B2A-99A9-A36FFC3AB271}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Constructors", "Constructors\Constructors.csproj", "{E760CC64-7F73-4EEB-BF72-2C6246743107}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Constructors", "Constructors\Constructors.csproj", "{E760CC64-7F73-4EEB-BF72-2C6246743107}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Interfaces", "Interfaces\Interfaces.csproj", "{45740144-4EFB-40BF-B721-3087F21CE9BB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Interfaces", "Interfaces\Interfaces.csproj", "{45740144-4EFB-40BF-B721-3087F21CE9BB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Generics", "Generics\Generics.csproj", "{B01BF6AB-23FF-492E-9047-940BA872FA6C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Generics", "Generics\Generics.csproj", "{B01BF6AB-23FF-492E-9047-940BA872FA6C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dictionary", "Dictionary\Dictionary.csproj", "{733E13E2-D1BF-4940-A4CC-8FF072AC7A3E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -75,6 +77,10 @@ Global
 		{B01BF6AB-23FF-492E-9047-940BA872FA6C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B01BF6AB-23FF-492E-9047-940BA872FA6C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B01BF6AB-23FF-492E-9047-940BA872FA6C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{733E13E2-D1BF-4940-A4CC-8FF072AC7A3E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{733E13E2-D1BF-4940-A4CC-8FF072AC7A3E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{733E13E2-D1BF-4940-A4CC-8FF072AC7A3E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{733E13E2-D1BF-4940-A4CC-8FF072AC7A3E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

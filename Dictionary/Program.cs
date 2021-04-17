@@ -12,9 +12,7 @@ namespace Dictionary
             dictionary.Add(3, "Cemile");
             dictionary.Add(4, "Murat");
 
-
-            Console.WriteLine(dictionary.Lenght);
-             
+            Console.WriteLine(dictionary.Lenght);             
         }
     }
 }
